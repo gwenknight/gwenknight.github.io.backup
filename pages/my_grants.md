@@ -13,8 +13,7 @@ Gram-negative bacteria
 
 I have a 3 year Skills Development fellowship (2017-2020) to construct
 mathematical models of drug resistance from the
-[MRC](https://www.mrc.ac.uk/skills-careers/fellowships/skills-
-development-fellowships/).
+[MRC](https://www.mrc.ac.uk/skills-careers/fellowships/skills-development-fellowships/).
 
 My collaborators are from Imperial College London ([Alison
 Holmes](https://www.imperial.ac.uk/people/alison.holmes)), PHE ([Julie
