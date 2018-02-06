@@ -21,8 +21,7 @@ Robotham](http://www.imperial.ac.uk/people/j.robotham), [Susan
 Hopkins](https://www.imperial.ac.uk/people/s.hopkins), [Alan
 Johnson](http://www.imperial.ac.uk/people/a.johnson)), Uppsala
 University ([Dan
-Andersson](http://www.imbim.uu.se/Research/Microbiology-immunology/
-Andersson_Dan_I/)), and my mentor at LSHTM is [Graham
+Andersson](http://www.imbim.uu.se/Research/Microbiology-immunology/Andersson_Dan_I/)), and my mentor at LSHTM is [Graham
 Medley](https://www.lshtm.ac.uk/aboutus/people/medley.graham).
 
 
