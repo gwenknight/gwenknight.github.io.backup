@@ -1,4 +1,8 @@
---- layout: page title: my funding description: Info ---
+--- 
+layout: page 
+title: my funding 
+description: Info 
+---
 
 ### Current funding and projects
 
