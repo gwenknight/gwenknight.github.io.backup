@@ -1,5 +1,9 @@
---- layout: page title: home page tagline: Gwen Knight description: My
-reserach ---
+--- 
+layout: page 
+title: home page 
+tagline: Gwen Knight 
+description: My research 
+---
 
 I am an Assistant Professor at the [London School of Hygiene and
 Tropical Medicine](https://www.lshtm.ac.uk/aboutus/people/knight.gwen),
